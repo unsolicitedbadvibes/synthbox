@@ -13,3 +13,4 @@ The synth.h and tables.h code are entirely DZL's work. Basically 99.9% of the co
 
 Examples of the synth box: https://www.youtube.com/watch?v=XRZzHhUqOVE&list=PLXLuRihvl2G2o5c0YjR0Cg_p5rC3dF_Ll 
 
+Photo of the guts: https://imgur.com/a/JazSWTr 
