@@ -14,3 +14,4 @@ The synth.h and tables.h files are entirely DZL's work. Basically 99.9% of the c
 Examples of the synth box: https://www.youtube.com/watch?v=XRZzHhUqOVE&list=PLXLuRihvl2G2o5c0YjR0Cg_p5rC3dF_Ll 
 
 Photo of the guts: https://imgur.com/a/JazSWTr 
+(power and ground connections to the potentiometers are all individually wired b/c I didn't know at first how many knobs I was going to use. My current test build has pots wired in parallel. Feel free to do as you see fit)
