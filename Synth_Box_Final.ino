@@ -13,6 +13,7 @@
 // HTTP://dzlsevilgeniuslair.blogspot.dk
 // HTTP://illutron.dk
 
+//synthbox note - the values I used were 2.2k resistor, 100nf cap, and 100uf cap. 
 
 int KONEX = 0;
 int KTWOX = 0;
